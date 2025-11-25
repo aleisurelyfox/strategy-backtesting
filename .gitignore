@@ -1,0 +1,36 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packages and build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs and coverage
+*.log
+.coverage
+coverage.xml
+.pytest_cache/
+.mypy_cache/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# OS and misc
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
